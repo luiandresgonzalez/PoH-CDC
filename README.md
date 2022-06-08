@@ -1,11 +1,11 @@
 # PoH-CDC
 Charlas de la Comunidad de Proof of Humanity en Español
 
-https://tokenlog.xyz/luiandresgonzalez/PoH-CDC
+https://tokenlog.xyz/OpenProofOfHumanity/PoH-CDC
 
 # Cómo sugerir un tema
 1. Crearse una cuenta en GitHub (vale la pena si querés ayudar en proyectos descentralizados). Loguearse.
-2. Ir a https://github.com/luiandresgonzalez/PoH-CDC/issues
+2. Ir a https://github.com/OpenProofOfHumanity/PoH-CDC/issues
 3. Hacer click en "New Issue"
 4. Escribir un tema a sugerir de la forma más precisa posible. Una vez hecho esto, click en "Submit new issue"
 5. Listo! Ya se puede votar en la plataforma TokenLog
